@@ -38,7 +38,7 @@ header {
 }
 
 #column-2 {
-  background: #0085FF;
+  background: #4A9FE8;
 }
 
 #column-3 {
@@ -56,7 +56,6 @@ footer {
 
 
 /*---------- TABLET ----------*/
-/* Change the background colors below */
 
 @media (min-width: 768px) {
   header {
